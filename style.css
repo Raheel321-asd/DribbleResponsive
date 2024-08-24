@@ -29,10 +29,10 @@ main{
 #top i{
     background-color: black;
     color: white;
-    font-size: 1.3vw;
-    padding: 10px;
+    font-size: 1.7vw;
+    padding: 16px;
     border-radius: 50%;
-    font-weight: 550;
+    font-weight: 600;
 }
 #second{
     /* background-color: red; */
@@ -104,8 +104,8 @@ main{
 
 @media (max-width:600px) {
     #top{
-        height: 13%;
-        background-color: rgb(137, 189, 35);
+        height: 11%;
+/*         background-color: rgb(137, 189, 35); */
         gap: 14px;
         padding: 0 24px;
     }
@@ -122,19 +122,19 @@ main{
         font-weight: 550;
     }
     #second{
-        height: 22%;
+        height: 28%;
         padding: 0px 15px;
-        padding-top: 14px;
+        padding-top: 6px;
     }
     #second p{
         /* font-size: 55px; */
-        font-size: 9vw;
-        font-weight: 300px;
+        font-size: 10.7vw;
+        font-weight: 350px;
         /* line-height: 1.2; */
-        line-height: 11.3vw;
+        line-height: 12.8vw;
     }
     #center{
-        height: 35%;
+        height: 28%;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
@@ -186,7 +186,7 @@ main{
         background-color: rgb(204, 243, 243);
     } 
     #bottom {
-        height: 30%;
+        height: 33%;
         background-image: url(photo.avif);
         background-size: cover;
         background-position: 0% 33%;
