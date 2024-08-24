@@ -47,6 +47,8 @@ main{
 }
 #center{
     display: flex;
+    align-items:center;
+    gap:20px;
     justify-content: space-between;
     padding: 10px 80px;
 }
