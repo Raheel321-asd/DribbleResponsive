@@ -105,21 +105,20 @@ main{
 @media (max-width:600px) {
     #top{
         height: 11%;
-/*         background-color: rgb(137, 189, 35); */
-        gap: 14px;
+        gap: 18px;
         padding: 0 24px;
     }
     #top h4{
-        font-size: 12px;
-        font-weight: 560;
+        font-size: 13px;
+        font-weight: 550;
     }
     #top i{
         background-color: black;
         color: white;
-        font-size: 10px;
-        padding: 3.8px;
+        font-size: 14px;
+        padding: 5px;
         border-radius: 50%;
-        font-weight: 550;
+        font-weight: 600;
     }
     #second{
         height: 28%;
